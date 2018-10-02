@@ -1,0 +1,5 @@
+abcdin35	amanda.areaprod.b2b	barman
+ERROR: Unable to connect to the target host using the command 'ssh root@certificador.areaprod.b2b'
+cat: /storage/certificador3/data_pg_abcdin35/PG_VERSION: No existe el fichero o el directorio
+"bash: /usr/pgsql-/bin/pg_ctl: No existe el fichero o el directorio\n"
+FAIL	La base de datos retorno un error en la subida para /storage/certificador3/data_pg_abcdin35

@@ -1,0 +1,35 @@
+---
+2.0.5 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,rdoc:>= 2.4.3,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:d51e8736e454057d63e979c79e1907cf5bf8826dd0853043f67cf5f7d02d7801
+2.0.4 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:135de7731b19f110f2f311d5255aa7ca834511e1adb6f5aa3063b38490fe5530
+2.0.3 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:0dbb5f20882b86e6a25af033941f2abc5ce10fa361f840137b5d6e03817fb1df
+2.0.2 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:1a2216c97137d9a2b183146377601190224e2db4817915b04bb4d2f743cfd2ee
+2.0.1 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:14c3c3435af7a841ac78b309b9454ca18a4d763843cd2fb85fe86a851e323318
+2.0.0 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:19760fcc03376d0e8bfd953a403d819ae9cf62059587204efec773b85c0b4257
+2.0.5-x86-mingw32 |checksum:8e24c630f8917c8c07397a819b99b5591a9400ee8547cdee82126aac2013d5a8
+2.0.6.pre120 |checksum:fef048b0dbf690342c24d8d4109289e14b038ad4b895bd52090c59223f0634f5
+2.0.6.pre120-x86-mingw32 |checksum:c747fb6e7d5ae16772af1f2e707437ff1e2f6a89ed6b90d6f7f196eb3b34a41b
+2.0.6.pre120-x86-mswin32 |checksum:132521b31cf7f3c750f7db60ea1bf27ba82643c8c5c9ef0267936576c7131d97
+2.0.6.pre122 |checksum:d93b72862eb6dc8d8537406e6d2f7ab4126f39fecd2d917f50a2a83ce0c42804
+2.0.6.pre122-x86-mingw32 |checksum:f5c432d58d1f9f9bfc0617af299f10386c295b2cb22a8e6783be9f40b9df7102
+2.0.6.pre122-x86-mswin32 |checksum:e696b2b51cae5129a9b5025953f905bbb7a1b0fc91197bc79c233496db7a776e
+2.0.6 |checksum:64c0c46a46fdbd73ab578e6830794cc544a1b6793e8dd11cb2e77c0f2b924698
+2.0.6-x86-mingw32 |checksum:c1e96d05be584ee99614f983773027cddfaa466ce7f59ea04b639f34ebcb2c54
+2.0.6-x86-mswin32 |checksum:e2c93c188380896a15e123aa7b698d924fb8db12263aec9416bb5389bb448ddc
+2.0.7.pre126-x86-mingw32 |checksum:99026ac6b869d1f7b655cd97b7b8b312959db29526261db7924e54dca4576d74
+2.0.7.pre126-x86-mswin32 |checksum:87770580b2d349a2bfd1402575fa2f9ce2b42e8bf76e114f6cbf6a8eaa60f7eb
+2.0.7.pre126 |checksum:2703aa69ad1ac894f8524cfb12e68675f87dda4edb837edf8a8e54b553cca574
+2.0.7-x86-mingw32 |checksum:7c3785cc02d93b238652a5d9abd1fdcb4c104d316f96eed7204b992f59f7a6ef
+2.0.7-x86-mswin32 |checksum:b6ed4f23a182b3412547d86166ecd7ce13d99485c5794f35c2d99e6d31bae11a
+2.0.7 |checksum:05003d1843cc120d948fe00023533914fdbd46fe9ca0f5edf971dd20d936687f
+2.0.9 |checksum:5138de4f05a406c1f75b7e1d90f1d5672525c8b672af2323c432ed065a328c40
+2.0.10 |checksum:b8520bfe9fe8b49cf143f865c39789ed56640f9800934971c89345d1aef3a592
+2.0.11pre158 |checksum:5ae65cf7c85d5252e96be020e7e96863f02e82b55476f8a77a1979bcf1f864ae
+2.0.11pre158-x86-mswin32 |checksum:742f396b682bf1c320114f5c1c6f3973a39206bde017e6e9b9c5d6d4ade589a6
+2.0.11pre158-x86-mingw32 |checksum:3f443737d32756e7b9b6e660dec34999568cf27c497db45ab141f1eea9289031
+2.0.11-x86-mingw32 |checksum:0e6821921428606cb2e702776713fe0c7567e32914f41a99c383613b33c91bcd
+2.0.11-x86-mswin32 |checksum:ba8861b4dcf43efb009c3e641f119f42373ba2c5105c5f25285a6548469bf913
+2.0.11 |checksum:27cd5d8c8056bfd6ca4b8b45683bfab56d90b9b4d5a55dccb6fd26e769e46108
+2.1.0 |checksum:5207ee357551a73eda8b8e053d7956d114e15ec91253a8bfa77061add6a8261f
+2.1.0-x86-mingw32 |checksum:7bbe0720eb568853239786d1f38c6b3211640f32a618a3510f5f5202cb640339
+2.1.0-x86-mswin32 |checksum:b8d07c589c54eeff24bf771a8473d41d5145d4ea2339f3d521d76dbc2120e89d
+2.2.0 |checksum:b30128433f6a83909b0cb52c3e001ee002ca8760d9b433ecc5ced308f7e703f9
